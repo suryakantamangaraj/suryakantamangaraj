@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Surya!](https://www.suryakantamangaraj.github.io/)
+### Hey 👋, I'm [Surya](https://www.suryakantamangaraj.github.io/)!
 
 <a href="https://github.com/suryakantamangaraj">
   <img align="left" alt="Surya Raj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
