@@ -30,7 +30,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: "What I am doing"
-- 📫 How to reach me: mangarajsuryakanta28@gmail.com
+- 📫 How to reach me: surya.socialnetworking@gmail.com
 - 😄 Pronouns: surya[x360]
 - 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
 
