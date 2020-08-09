@@ -31,7 +31,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: "What I am doing"
 - 📫 How to reach me: surya.socialnetworking@gmail.com
-- 😄 Pronouns: surya[x360]
+- 😄 Pronouns: He/him
 - 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
 
 ![Profile views](https://gpvc.arturio.dev/suryakantamangaraj)
