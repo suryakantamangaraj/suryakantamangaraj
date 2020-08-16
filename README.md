@@ -21,7 +21,7 @@
 Hi, I'm Surya Raj, a Passionate Coder 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
 ##
-<img align="right" alt="GIF" width="300px" src="https://pin.it/6zJ1o9M" />
+<img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/564x/4e/7c/37/4e7c373beb93fada438a53f68b2b581b.jpg" />
 
 **Talking about Personal Stuffs:**
 
