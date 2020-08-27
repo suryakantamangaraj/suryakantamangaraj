@@ -1,19 +1,22 @@
 ### Hey 👋, I'm [Surya!](https://www.suryakantamangaraj.github.io/)
 
 <a href="https://github.com/suryakantamangaraj">
-  <img align="left" alt="Surya Raj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Surya' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/suryakanta-mangaraj/">
   <img align="left" alt="Surya' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/_suryaraj_">
-  <img align="left" alt="Surya Raj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Surya' Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://t.me/suryakantamangaraj">
-  <img align="left" alt="Alex' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://www.instagram.com/suryaraj.ig/">
+  <img align="left" alt="Surya' Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/suryakantamangaraj">
+  <img align="left" alt="Surya' Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://www.suryakantamangaraj.github.io/">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
+  <img align="left" alt="Surya Raj | Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 <br />
 <br />
