@@ -1,4 +1,6 @@
-### Hey 👋, I'm [Surya!](https://www.suryakantamangaraj.github.io/)
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Surya!](https://www.suryakantamangaraj.github.io/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=suryakantamangaraj)
 
 <a href="https://github.com/suryakantamangaraj">
   <img align="left" alt="Surya' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
