@@ -59,6 +59,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ![Surya's github stats](https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&show_icons=true&theme=radical)
 
-<img align="center" alt="GIF" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/code2.gif" />
+<img align="centre" alt="GIF" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/code2.gif" />
 
 
