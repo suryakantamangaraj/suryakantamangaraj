@@ -56,9 +56,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-##
-
-<img align="right" alt="GIF" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/code2.gif" />
 
 ![Surya's github stats](https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&show_icons=true&theme=radical)
 
