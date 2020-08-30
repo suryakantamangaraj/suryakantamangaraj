@@ -35,11 +35,9 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: "What I am doing"
-- 📫 How to reach me: surya.socialnetworking@gmail.com
+- 📫 How to reach me: [@_suryaraj_](https://twitter.com/_suryaraj_)
 - 😄 Pronouns: He/him
 - 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
-
-##
 
 **Languages and Tools:**  
 
@@ -55,8 +53,27 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+##
 
-![Surya's github stats](https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&show_icons=true&theme=radical)
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Research        11 hrs 43 mins  ████████████████░░░░░░░░░   63.36 % 
+Python          4 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
+Javascript      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Git Config      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+<!--END_SECTION:waka-->
+
+##
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+
+</details>
 
 
 
