@@ -73,7 +73,7 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 | 📰 BLOGS | 📖 ARTICLES |
 | :--- | :--- |
 | [How Jenkins can help build your code](https://medium.com/) | [Micorservices with Docker](https://www.youtube.com/) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/) | [Guide to Linux](https://www.youtube.com/ |
+| [Kubernetes and Docker setup using Ansible](https://medium.com/) | [Guide to Linux](https://www.youtube.com/) |
 | [Automation with Ansible](https://medium.com) | [Ansible Automation](https://www.youtube.com) |
 
 ##
