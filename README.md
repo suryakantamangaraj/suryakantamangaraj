@@ -1,6 +1,6 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Surya!](https://www.suryakantamangaraj.github.io/)
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Surya!](https://www.suryakantamangaraj.github.io/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=suryakantamangaraj)
+![](https://visitor-badge.glitch.me/badge?page_id=suryakantamangaraj.suryakantamangaraj)
 
 <a href="https://github.com/suryakantamangaraj">
   <img align="left" alt="Surya' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -39,7 +39,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 😄 Pronouns: He/him
 - 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
 
-![Profile views](https://gpvc.arturio.dev/suryakantamangaraj)
+![](https://gpvc.arturio.dev/suryakantamangaraj)
 
 ##
 
