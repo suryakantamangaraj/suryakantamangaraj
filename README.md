@@ -42,6 +42,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Languages and Tools:**  
 
+![Python](https://img.shields.io/badge/python-green.svg?&style=flat&logo=python&ogoColor=white)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
