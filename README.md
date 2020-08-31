@@ -1,6 +1,7 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Surya!](https://www.suryakantamangaraj.github.io/)
 
 ![Profile Visits](https://gpvc.arturio.dev/suryakantamangaraj)
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/suryakantamangaraj/suryakantamangaraj?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 <a href="https://github.com/suryakantamangaraj">
   <img align="left" alt="Surya' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
