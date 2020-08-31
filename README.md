@@ -31,9 +31,9 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Professional Skills
-- 🌱 I’m currently learning Dart(Flutter)
-- 👯 I’m looking to collaborate on DevPost
+- 👨🏽‍💻 I’m currently working on RISC-V
+- 🌱 I’m currently learning Julia
+- 👯 I’m looking to collaborate on RISC-V Processor Design
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: "What I am doing"
 - 📫 How to reach me: [@_suryaraj_](https://twitter.com/_suryaraj_)
