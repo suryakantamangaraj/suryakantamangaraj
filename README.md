@@ -43,17 +43,15 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 **Languages and Tools:**  
 
 ![Python](https://img.shields.io/badge/python-green.svg?&style=flat&logo=python&ogoColor=white)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![C](https://img.shields.io/badge/C-brightgreen.svg?&style=flat&logo=c&ogoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-yellowgreen.svg?&style=flat&logo=matrix&ogoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-yellow.svg?&style=flat&logo=typescript&ogoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-orange.svg?&style=flat&logo=javascript&ogoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-red.svg?&style=flat&logo=bootstrap&ogoColor=white)
+![HTML](https://img.shields.io/badge/HTML-blue.svg?&style=flat&logo=html5&ogoColor=white)
+![CSS](https://img.shields.io/badge/CSS-lightgrey.svg?&style=flat&logo=css3&ogoColor=white)
+![Bash](https://img.shields.io/badge/Bash-772953.svg?&style=flat&logo=GNU%20bash&ogoColor=white)
+![Git](https://img.shields.io/badge/Git-9cf.svg?&style=flat&logo=git&ogoColor=white)
 
 ##
 
