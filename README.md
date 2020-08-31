@@ -29,7 +29,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 ##
 <img align="right" alt="jpg" width="300px" src="https://i.pinimg.com/564x/4e/7c/37/4e7c373beb93fada438a53f68b2b581b.jpg" />
 
-**Talking about Personal Stuffs:**
+🙏 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on RISC-V
 - 🌱 I’m currently learning Julia
@@ -40,7 +40,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 😄 Pronouns: He/him
 - 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
 
-**Languages and Tools:**  
+🏆 **Languages and Tools:**  
 
 ![Python](https://img.shields.io/badge/python-green.svg?&style=flat&logo=python&ogoColor=white)
 ![C](https://img.shields.io/badge/C-brightgreen.svg?&style=flat&logo=c&ogoColor=white)
@@ -68,7 +68,7 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 
 ## 
 
-📬 **Other Activities:**
+⭐ **Other Activities:**
 
 | 📰 BLOGS | 📖 ARTICLES |
 | :--- | :--- |
