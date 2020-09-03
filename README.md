@@ -1,7 +1,24 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Surya!](https://www.suryakantamangaraj.github.io/)
 
 ![Profile Visits](https://gpvc.arturio.dev/suryakantamangaraj)
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/suryakantamangaraj/suryakantamangaraj?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
+Hi, I'm Surya Raj, a Passionate Coder 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
+Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
+
+##
+<img align="right" alt="jpg" width="300px" src="https://i.pinimg.com/564x/4e/7c/37/4e7c373beb93fada438a53f68b2b581b.jpg" />
+
+🙏 **Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on RISC-V
+- 🌱 I’m currently learning Julia
+- 👯 I’m looking to collaborate on RISC-V Processor Design
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: "What I am doing"
+- 😄 Pronouns: He/him
+- 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
+
+📫 **Reacch out to Me:**
 
 <a href="https://github.com/suryakantamangaraj">
   <img align="left" alt="Surya' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -21,24 +38,6 @@
 <a href="https://www.suryakantamangaraj.github.io/">
   <img align="left" alt="Surya Raj | Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
-<br />
-<br />
-
-Hi, I'm Surya Raj, a Passionate Coder 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
-Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
-##
-<img align="right" alt="jpg" width="300px" src="https://i.pinimg.com/564x/4e/7c/37/4e7c373beb93fada438a53f68b2b581b.jpg" />
-
-🙏 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on RISC-V
-- 🌱 I’m currently learning Julia
-- 👯 I’m looking to collaborate on RISC-V Processor Design
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: "What I am doing"
-- 📫 How to reach me: [@_suryaraj_](https://twitter.com/_suryaraj_)
-- 😄 Pronouns: He/him
-- 📝 [Resume](https://youtu.be/jHJ1Ns6561k)
 
 🏆 **Languages and Tools:**  
 
@@ -86,7 +85,7 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, 3 September, 18:15 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, 3 September, 18:31 GMT+5:30</p>
 <p align="center"><img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/></p>
 
 
