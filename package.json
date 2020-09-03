@@ -1,0 +1,39 @@
+{
+  "name": "suryakantamangaraj",
+  "version": "1.0.0",
+  "description": "Github Profile Readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryakantamangaraj/suryakantamangaraj.git"
+  },
+  "keywords": [
+    "suryakkantamangaraj",
+    "surya",
+    "raj",
+    "github",
+    "profile",
+    "readme",
+    "awesome",
+    "github",
+    "profile",
+    "readme"
+  ],
+  "author": "Surya Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryakantamangaraj/suryakantamangaraj/issues"
+  },
+  "homepage": "https://github.com/suryakantamangaraj/suryakantamangaraj#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^5.2.1",
+    "puppeteer-service": "^0.4.8"
+  }
+}
