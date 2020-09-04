@@ -59,8 +59,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ##
 
-<details>
-<summary>📊 **This Week I Spent My Time On:**</summary>
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Research        11 hrs 43 mins  ████████████████░░░░░░░░░   63.36 % 
@@ -70,19 +69,23 @@ Markdown        36 mins         ▓░░░░░░░░░░░░░░░
 Git Config      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-->
-</details>
 
 ##
 
 <details>
-<summary>📈 **My GitHub Stats:**</summary>
+<summary>📈 My GitHub Stats:</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&count_private=true&show_icons=true&theme=graywhite&bg_color=DEG,FF8F1C,ffffff,509E2F" alt="suryakantamangaraj" />
 
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 08:57 GMT+5:30</p>
-<p align="center"><img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 09:05 GMT+5:30</p>
+<p align="center">
+<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
+<img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
+<img src="https://img.shields.io/github/license/suryakantamangaraj/suryakantamangaraj?color=brightgreen" alt="License Badge"/>
+</p>
 
 
