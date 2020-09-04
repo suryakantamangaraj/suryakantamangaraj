@@ -32,6 +32,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 😄 Pronouns: He/him
 - 📝 [Resume](https://youtu.be/jHJ1Ns6561k) | [Portfolio](https://suryakantamangaraj.github.io/#!/portfolio)
 
+##
 
 🏆 **Languages and Tools:**  
 
@@ -74,12 +75,12 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&count_private=true&show_icons=true&theme=graywhite&bg_color=DEG,FF8F1C,ffffff,509E2F" alt="suryakantamangaraj" />
 
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Thursday, 3 September, 19:07 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 06:12 GMT+5:30</p>
 <p align="center"><img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/></p>
 
 
