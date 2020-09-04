@@ -14,7 +14,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <a href="https://twitter.com/_suryaraj_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/suryaraj.ig/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3f729b.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/suryakantamangaraj"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://www.suryakantamangaraj.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
+<a href="https://suryakantamangaraj.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
 </p>
 
 
@@ -80,7 +80,7 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 06:12 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 08:09 GMT+5:30</p>
 <p align="center"><img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/></p>
 
 
