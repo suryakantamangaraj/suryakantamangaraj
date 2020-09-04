@@ -47,19 +47,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 ![Bash](https://img.shields.io/badge/Bash-772953.svg?&style=flat&logo=GNU%20bash&ogoColor=white)
 ![Git](https://img.shields.io/badge/Git-9cf.svg?&style=flat&logo=git&ogoColor=white)
 
-##
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Research        11 hrs 43 mins  ████████████████░░░░░░░░░   63.36 % 
-Python          4 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
-Javascript      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Git Config      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-<!--END_SECTION:waka-->
-
 ## 
 
 ⭐ **Other Activities:**
@@ -73,14 +60,29 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 ##
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📊 **This Week I Spent My Time On:**</summary>
+<!--START_SECTION:waka-->
+```text
+Research        11 hrs 43 mins  ████████████████░░░░░░░░░   63.36 % 
+Python          4 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
+Javascript      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Git Config      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+<!--END_SECTION:waka-->
+</details>
+
+##
+
+<details>
+<summary>📈 **My GitHub Stats:**</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&count_private=true&show_icons=true&theme=graywhite&bg_color=DEG,FF8F1C,ffffff,509E2F" alt="suryakantamangaraj" />
 
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 08:09 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Friday, 4 September, 08:57 GMT+5:30</p>
 <p align="center"><img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/></p>
 
 
