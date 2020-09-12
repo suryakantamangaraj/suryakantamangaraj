@@ -51,12 +51,9 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🐦 **𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝:**
 
-<div align="middle">
-
-  <a href="https://twitter.com/_suryaraj_" target="_blank">
+ <p align="center"> <a href="https://twitter.com/_suryaraj_" target="_blank">
 	  <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 
-</div>
 
  ##
 
@@ -127,7 +124,7 @@ No Activity tracked this Week
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 22:18 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 22:25 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
