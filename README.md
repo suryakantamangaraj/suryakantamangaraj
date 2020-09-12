@@ -73,7 +73,7 @@ AgriTech is a software that is created for the improvement of some farming proce
 Smart agriculture is referred to the application of the Internet of Things, utilization of various devices connected to each other.
 Visit <https://suryakantamangaraj.github.io> if you are interested!
 
-##
+## 
 
 ⭐ **Other Activities:**
 
@@ -85,12 +85,16 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 ##
 
+🔔 **My Recent GitHub Activities:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+##
+
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -103,7 +107,7 @@ No Activity tracked this Week
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 21:03 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 21:27 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
