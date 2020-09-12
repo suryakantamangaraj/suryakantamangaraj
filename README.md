@@ -59,7 +59,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🏵️ **I'm working on:**
 
-### lnagb.js
+### Connected Agriculture
 
 <a href="https://github.com/suryakantamangaraj">
 	<img align="left" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/Images/ConnAgriculture.jfif">
@@ -100,7 +100,7 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 20:59 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 21:03 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
