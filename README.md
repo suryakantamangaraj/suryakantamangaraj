@@ -58,24 +58,20 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 | [Automation with Ansible](https://medium.com) | [Ansible Automation](https://www.youtube.com) |
 
 ##
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Research        11 hrs 43 mins  ████████████████░░░░░░░░░   63.36 % 
-Python          4 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
-Javascript      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Git Config      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-<!--END_SECTION:waka-->
-
-##
-
 <details>
 <summary>
   More stuff about me...
 </summary>
+
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+##
 
 📈 **My GitHub Stats:**
 
@@ -84,7 +80,7 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 19:02 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 20:03 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
