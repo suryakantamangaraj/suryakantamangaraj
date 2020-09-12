@@ -100,6 +100,11 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
+2. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
+3. 🎉 Merged PR [#1](https://github.com//suryakantamangaraj/SimplePortfolio/pull/1) in [suryakantamangaraj/SimplePortfolio](https://github.com//suryakantamangaraj/SimplePortfolio)
+4. 💪 Opened PR [#1](https://github.com//suryakantamangaraj/SimplePortfolio/pull/1) in [suryakantamangaraj/SimplePortfolio](https://github.com//suryakantamangaraj/SimplePortfolio)
+5. ❗️ Opened issue [#382](https://github.com//JessicaLim8/JessicaLim8/issues/382) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ##
