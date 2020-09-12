@@ -24,8 +24,8 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🙏 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RISC-V
-- 🌱 I’m currently learning Julia
+- 👨🏽‍💻 I’m currently working on Connected Agriculture Project
+- 🌱 I’m currently learning RISC-V ISA
 - 👯 I’m looking to collaborate on RISC-V Processor Design
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: "What I am doing"
@@ -70,9 +70,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -85,7 +82,7 @@ No Activity tracked this Week
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 20:33 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 20:42 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
