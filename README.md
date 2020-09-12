@@ -51,10 +51,10 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🐦 **𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝:**
 
- <p align="center"> <a href="https://twitter.com/_suryaraj_" target="_blank">
-	  <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-
-
+  <p align="center"> 
+  <a href="https://twitter.com/_suryaraj_" target="_blank">
+  <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+  </a>
  ##
 
 
@@ -97,11 +97,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#1](https://github.com//suryakantamangaraj/SimplePortfolio/pull/1) in [suryakantamangaraj/SimplePortfolio](https://github.com//suryakantamangaraj/SimplePortfolio)
-4. 💪 Opened PR [#1](https://github.com//suryakantamangaraj/SimplePortfolio/pull/1) in [suryakantamangaraj/SimplePortfolio](https://github.com//suryakantamangaraj/SimplePortfolio)
-5. ❗️ Opened issue [#382](https://github.com//JessicaLim8/JessicaLim8/issues/382) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ##
@@ -109,9 +104,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -124,7 +116,7 @@ No Activity tracked this Week
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 22:25 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 22:33 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
