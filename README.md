@@ -20,7 +20,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ##
 
-<img align="right" alt="jpg" width="300px" src="https://i.pinimg.com/564x/4e/7c/37/4e7c373beb93fada438a53f68b2b581b.jpg" />
+<img align="right" alt="jpg" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" />
 
 🙏 **Talking about Personal Stuffs:**
 
@@ -80,7 +80,7 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 17:49 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 17:55 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
