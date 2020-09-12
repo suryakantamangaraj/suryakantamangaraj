@@ -110,7 +110,10 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Mustache     1 hr 3 mins     ███████████████░░░░░░░░░░   60.22 % 
+Markdown     30 mins         ███████▒░░░░░░░░░░░░░░░░░   28.82 % 
+YAML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+R            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 <!--END_SECTION:waka-->
 
