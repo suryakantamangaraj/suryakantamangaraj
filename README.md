@@ -57,6 +57,24 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 </summary>
 
 
+🏵️ **I'm working on:**
+
+### lnagb.js
+
+<a href="https://github.com/suryakantamangaraj">
+	<img align="left" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/Images/ConnAgriculture.jfif">
+</a>
+
+Agriculture is a field, where modern technologies can be applied efficiently.
+Although, the farming sector may seem something archaic for many people.
+Anyway, a smart farming conception is not a sci-fi one, it is a real working approach that simplifies agricultural processes and makes them automated.
+It can be divided into two conception — smart agriculture and AgriTech.
+AgriTech is a software that is created for the improvement of some farming processes.
+Smart agriculture is referred to the application of the Internet of Things, utilization of various devices connected to each other.
+Visit <https://suryakantamangaraj.github.io> if you are interested!
+
+##
+
 ⭐ **Other Activities:**
 
 | 📰 BLOGS | 📖 ARTICLES |
@@ -82,7 +100,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 20:42 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 20:59 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
