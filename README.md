@@ -73,14 +73,18 @@ Git Config      27 mins         ▓░░░░░░░░░░░░░░░
 ##
 
 <details>
-<summary>📈 My GitHub Stats:</summary>
+<summary>
+  More stuff about me...
+</summary>
+
+📈 **My GitHub Stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&count_private=true&show_icons=true&theme=graywhite&bg_color=DEG,FF8F1C,ffffff,509E2F" alt="suryakantamangaraj" />
 
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 17:55 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, 12 September, 19:02 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
