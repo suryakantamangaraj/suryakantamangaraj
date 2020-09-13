@@ -3,7 +3,7 @@ name: Update Github Activities
 on:
   schedule:
     # Runs every 6 hour
-    - cron: '10 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
