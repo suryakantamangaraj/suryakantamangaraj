@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-  # Runs every 12 hour
+    # Runs every 12 hour
     - cron: '0 */12 * * *'
 
 jobs:
