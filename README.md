@@ -98,10 +98,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#1](https://github.com//suryakantamangaraj/SimplePortfolio/pull/1) in [suryakantamangaraj/SimplePortfolio](https://github.com//suryakantamangaraj/SimplePortfolio)
-4. 💪 Opened PR [#1](https://github.com//suryakantamangaraj/SimplePortfolio/pull/1) in [suryakantamangaraj/SimplePortfolio](https://github.com//suryakantamangaraj/SimplePortfolio)
 <!--END_SECTION:activity-->
 
 ##
@@ -109,12 +105,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Mustache     1 hr 3 mins     ███████████████░░░░░░░░░░   60.22 % 
-Markdown     30 mins         ███████▒░░░░░░░░░░░░░░░░░   28.82 % 
-YAML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-R            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -127,7 +117,7 @@ R            3 mins          ▓░░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 13 September, 09:58 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 13 September, 10:17 GMT+5:30</p>
 <p align="center">
 <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
