@@ -4,8 +4,8 @@ on:
   repository_dispatch:
     types: [opened, deleted, tweet]
   schedule:
-    - cron:  '*/20 * * * *'
-
+    # Runs every 6 hour
+    - cron: '0 */6 * * *'
 jobs:
   build:
     runs-on: macOS-latest
