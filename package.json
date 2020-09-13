@@ -32,7 +32,7 @@
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "mustache": "^4.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "puppeteer": "^5.2.1",
     "puppeteer-service": "^0.4.8"
   }
