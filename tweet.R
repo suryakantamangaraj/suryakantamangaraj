@@ -12,7 +12,7 @@ lasttweet_token <- function() {
   )
 }
 
-handle <- "filiptronicek"
+handle <- "_suryaraj_"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
 
 tmpimg <- "tweet.png"
