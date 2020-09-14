@@ -5,7 +5,9 @@ on:
     types: [opened, deleted, tweet]
   schedule:
     # Runs every 6 hour
-    - cron: '0 */6 * * *'
+    - cron: '10 * * * *'
+  workflow_dispatch:
+  
 jobs:
   build:
     runs-on: macOS-latest
@@ -29,7 +31,6 @@ jobs:
         Rscript -e "source('tweet.R')"
     - name: Commit and push if changed
       run: |-
-        git fetch
         git add .
         git diff
         git config --global user.email "github-action-bot@example.com"
