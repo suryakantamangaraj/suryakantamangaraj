@@ -49,7 +49,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ## 
 
-🐦 **𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝:** ![Build twitter image](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Build%20twitter%20image/badge.svg)
+🐦 **My Latest Tweet:** ![Build twitter image](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Build%20twitter%20image/badge.svg)
 
   <p align="center"> 
   <a href="https://twitter.com/_suryaraj_" target="_blank">
@@ -69,7 +69,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🏵️ **I'm working on:**
 
-### Connected Agriculture
+#### Connected Agriculture
 
 <a href="https://github.com/suryakantamangaraj">
 	<img align="left" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/Images/ConnAgriculture.jfif">
@@ -95,14 +95,14 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 ##
 
-🔔 **My Recent GitHub Activities:**
+🔔 **My Recent GitHub Activities:** ![Update Github Activities](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Update%20Github%20Activities/badge.svg)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ##
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:** ![Waka Readme](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -117,9 +117,9 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 14 September, 06:10 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 14 September, 06:45 GMT+5:30</p>
 <p align="center">
-<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
+![README build](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg)
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img src="https://img.shields.io/github/license/suryakantamangaraj/suryakantamangaraj?color=brightgreen" alt="License Badge"/>
