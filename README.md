@@ -98,6 +98,9 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 🔔 **My Recent GitHub Activities:** ![Update Github Activities](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Update%20Github%20Activities/badge.svg)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com//suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com//suryakantamangaraj/suryakantamangaraj)
+2. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
+3. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
