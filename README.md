@@ -49,7 +49,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ## 
 
-🐦 **𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝:** ![Build twitter image](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Build%20twitter%20image/badge.svg)
+🐦 **My Latest Tweet:** ![Build twitter image](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Build%20twitter%20image/badge.svg)
 
   <p align="center"> 
   <a href="https://twitter.com/_suryaraj_" target="_blank">
@@ -69,7 +69,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🏵️ **I'm working on:**
 
-### Connected Agriculture
+#### Connected Agriculture
 
 <a href="https://github.com/suryakantamangaraj">
 	<img align="left" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/Images/ConnAgriculture.jfif">
@@ -95,16 +95,25 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 ##
 
-🔔 **My Recent GitHub Activities:**
+🔔 **My Recent GitHub Activities:** ![Update Github Activities](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Update%20Github%20Activities/badge.svg)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com//suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com//suryakantamangaraj/suryakantamangaraj)
+2. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
+3. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:** ![Waka Readme](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
+```text
+Mustache     1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   47.20 % 
+Markdown     34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
+YAML         22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+R            22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+```
 <!--END_SECTION:waka-->
 
 ##
@@ -117,9 +126,9 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 14 September, 06:10 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 14 September, 06:45 GMT+5:30</p>
 <p align="center">
-<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" /> 
+![README build](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg)
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img src="https://img.shields.io/github/license/suryakantamangaraj/suryakantamangaraj?color=brightgreen" alt="License Badge"/>
