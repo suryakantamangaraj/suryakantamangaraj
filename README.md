@@ -109,10 +109,10 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Mustache     1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   47.20 % 
-Markdown     34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
-YAML         22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-R            22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Mustache     1 hr 27 mins    █████████████░░░░░░░░░░░░   52.48 % 
+Markdown     34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+YAML         22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+R            22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 <!--END_SECTION:waka-->
 
