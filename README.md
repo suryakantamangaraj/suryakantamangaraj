@@ -69,19 +69,21 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 🏵️ **I'm working on:**
 
-#### Connected Agriculture
+#### [Smart Farming with EDGE AI and Intelligence Cloud](https://www.suryakantamangaraj.github.io/SmartFarming)
 
-<a href="https://github.com/suryakantamangaraj">
+<a href="https://github.com/suryakantamangaraj/SmartFarming" target="_blank">
 	<img align="left" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/Images/ConnAgriculture.jfif">
 </a>
 
-Agriculture is a field, where modern technologies can be applied efficiently.
-Although, the farming sector may seem something archaic for many people.
-Anyway, a smart farming conception is not a sci-fi one, it is a real working approach that simplifies agricultural processes and makes them automated.
-It can be divided into two conception — smart agriculture and AgriTech.
-AgriTech is a software that is created for the improvement of some farming processes.
-Smart agriculture is referred to the application of the Internet of Things, utilization of various devices connected to each other.
-Visit <https://suryakantamangaraj.github.io> if you are interested!
+With emerging technology in continuous evolution over the last few years, we have seen the emergence of the term smart agriculture. 
+Although AI and conventional IoT techniques are already transforming the world of precision smart farming for many years, 
+the challenge has been in moving from powerful specialist platforms with delayed processing of data especially for rural areas to processing and acting in real-time. 
+The conventional method is not adaptable because of poor internet connectivity and high cost. 
+"Smart Farming with EDGE-AI based Intelligence Cloud" solves many of the real-world challenges, out in the field. 
+Edge computing will enable the swift transfer of data to the cloud so that real-time analytics and machine-to-machine communication can streamline and automate the farming process, which will help to connect rural areas. 
+The approach is to implement a system consist of sensor nodes with data acquisition, Edge gateway with indigenous RISC-V processor, EDGE-AI based public cloud and global connecting interfaces for robust data analytics. 
+The results of using indigenous RISC-V based processor and EDGE computing will make the solution more affordable, accessible and scalable.
+Visit <https://suryakantamangaraj.github.io/SmartFarming> if you are interested!
 
 ## 
 
@@ -98,9 +100,10 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com//suryakantamangaraj/suryakantamangaraj)
-2. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
-3. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
+1. ❗️ Opened issue [#403](https://github.com//JessicaLim8/JessicaLim8/issues/403) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+2. 🎉 Merged PR [#2](https://github.com//suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com//suryakantamangaraj/suryakantamangaraj)
+3. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
+4. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
@@ -108,12 +111,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Mustache     1 hr 27 mins    █████████████░░░░░░░░░░░░   52.48 % 
-Markdown     34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-YAML         22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-R            22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -126,7 +123,7 @@ R            22 mins         ███▒░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 16 September, 06:10 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 16 September, 17:48 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
