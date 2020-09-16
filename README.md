@@ -98,9 +98,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com//suryakantamangaraj/suryakantamangaraj)
-2. 🎉 Merged PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
-3. 💪 Opened PR [#10](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io/pull/10) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com//suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
@@ -108,12 +105,6 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Mustache     1 hr 27 mins    █████████████░░░░░░░░░░░░   52.48 % 
-Markdown     34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-YAML         22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-R            22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -126,7 +117,7 @@ R            22 mins         ███▒░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 15 September, 17:48 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 16 September, 06:10 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
