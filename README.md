@@ -49,7 +49,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ## 
 
-🐦 **My Latest Tweet:** ![Build twitter image](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Build%20twitter%20image/badge.svg)
+🐦 **My Latest Tweet:**
 
   <p align="center"> 
   <a href="https://twitter.com/_suryaraj_" target="_blank">
@@ -95,7 +95,7 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 ##
 
-🔔 **My Recent GitHub Activities:** ![Update Github Activities](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Update%20Github%20Activities/badge.svg)
+🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com//suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com//suryakantamangaraj/suryakantamangaraj)
@@ -105,14 +105,14 @@ Visit <https://suryakantamangaraj.github.io> if you are interested!
 
 ##
 
-📊 **This Week I Spent My Time On:** ![Waka Readme](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Waka%20Readme/badge.svg)
+📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
 ```text
-Mustache     1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   47.20 % 
-Markdown     34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
-YAML         22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-R            22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Mustache     1 hr 27 mins    █████████████░░░░░░░░░░░░   52.48 % 
+Markdown     34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+YAML         22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+R            22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -126,12 +126,15 @@ R            22 mins         ███▓░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 14 September, 06:45 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 16 September, 06:10 GMT+5:30</p>
 <p align="center">
-![README build](https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg)
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img src="https://img.shields.io/github/license/suryakantamangaraj/suryakantamangaraj?color=brightgreen" alt="License Badge"/>
+<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/README%20build/badge.svg" alt="README build" />
+<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Build%20twitter%20image/badge.svg" alt="Build twitter image" />
+<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Update%20Github%20Activities/badge.svg" alt="Update Github Activities" />
+<img src="https://github.com/suryakantamangaraj/suryakantamangaraj/workflows/Waka%20Readme/badge.svg" alt="Waka Readme" />
 </p>
 
 
