@@ -113,11 +113,11 @@ Visit <https://suryakantamangaraj.github.io/SmartFarming> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Mustache     26 mins         ███████████░░░░░░░░░░░░░░   44.46 % 
-JavaScript   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Python       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-HTML         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+JavaScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.77 % 
+Mustache     9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
+Python       9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
+TypeScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+HTML         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 ```
 <!--END_SECTION:waka-->
 
