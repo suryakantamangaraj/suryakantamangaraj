@@ -112,6 +112,9 @@ Visit <https://suryakantamangaraj.github.io/SmartFarming> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+```text
+Markdown     11 mins         ███████████████████████▒░   93.61 % 
+```
 <!--END_SECTION:waka-->
 
 ##
