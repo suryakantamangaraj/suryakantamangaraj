@@ -30,7 +30,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: "What I am doing"
 - 😄 Pronouns: He/him
-- 📝 [Resume](https://youtu.be/jHJ1Ns6561k) | [Portfolio](https://suryaraj.me/#!/portfolio)
+- 📝 [Resume](https://github.com/suryakantamangaraj/Resume/blob/main/resume.pdf) | [Portfolio](https://suryaraj.me/#!/portfolio)
 
 ##
 
@@ -100,10 +100,6 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1077](https://github.com/JonathanGin52/JonathanGin52/issues/1077) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#250](https://github.com/benjaminsampica/benjaminsampica/issues/250) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#403](https://github.com/JessicaLim8/JessicaLim8/issues/403) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. 🎉 Merged PR [#2](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
@@ -111,12 +107,6 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Python       48 mins         ████████████████▓░░░░░░░░   67.08 % 
-Markdown     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Mustache     9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -129,7 +119,7 @@ CSV          1 min           ▒░░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 7 October, 06:15 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 7 October, 17:24 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
