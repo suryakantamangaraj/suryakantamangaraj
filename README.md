@@ -105,12 +105,6 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Python       48 mins         ████████████████▓░░░░░░░░   67.08 % 
-Markdown     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Mustache     9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -123,7 +117,7 @@ CSV          1 min           ▒░░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 7 October, 17:29 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 7 October, 17:51 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
