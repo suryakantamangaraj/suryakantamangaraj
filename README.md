@@ -9,12 +9,10 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 📫 **Reacch out to Me:**
 
 <p>
-<a href="https://github.com/suryakantamangaraj" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/suryakanta-mangaraj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/_suryaraj_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/suryaraj.ig/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3f729b.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/suryakantamangaraj"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://suryaraj.me"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/suryaraj.ig/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://suryaraj.me"><img alt="Website" src="https://img.shields.io/badge/Website-FF4500.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
 </p>
 
 
@@ -119,7 +117,7 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 7 October, 17:24 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 7 October, 17:29 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
