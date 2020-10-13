@@ -98,10 +98,6 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1077](https://github.com/JonathanGin52/JonathanGin52/issues/1077) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#250](https://github.com/benjaminsampica/benjaminsampica/issues/250) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#403](https://github.com/JessicaLim8/JessicaLim8/issues/403) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-4. 🎉 Merged PR [#2](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/2) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
@@ -109,13 +105,6 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Markdown   43 mins         ███████████▓░░░░░░░░░░░░░   47.00 % 
-CSS        29 mins         ████████░░░░░░░░░░░░░░░░░   32.01 % 
-HTML       9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Mustache   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-YAML       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -128,7 +117,7 @@ YAML       2 mins          ▓░░░░░░░░░░░░░░░░�
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 13 October, 06:17 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 13 October, 17:52 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
