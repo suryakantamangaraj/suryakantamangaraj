@@ -109,6 +109,9 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+```text
+HTML         1 min           ██████████████████▓░░░░░░   75.11 % 
+```
 <!--END_SECTION:waka-->
 
 ##
