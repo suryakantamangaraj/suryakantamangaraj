@@ -47,11 +47,11 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ## 
 
-🎧 **Spotify Playing**
+🎧 **Spotify Playing:**
 
   <p align="center">
   <a href="https://open.spotify.com/user/88f8gxgaiccggm415153ax5u7" target="_blank">
-  <img src="https://spotify-playing.suryaraj.vercel.app/api/spotify-playing" alt="Surya Spotify Playing" width="350" />
+  <img src="https://spotify-playing.suryaraj.vercel.app/api/spotify-playing" alt="Surya'S Spotify Playing Now" width="350" />
   </a>
 
  ##
@@ -126,7 +126,7 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Saturday, 17 October, 07:33 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Saturday, 17 October, 07:42 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
