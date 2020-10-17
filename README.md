@@ -110,7 +110,11 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 min           ██████████████████▓░░░░░░   75.11 % 
+Markdown   22 mins         █████████░░░░░░░░░░░░░░░░   35.38 % 
+YAML       22 mins         ████████▓░░░░░░░░░░░░░░░░   34.17 % 
+Mustache   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Python     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+R          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 <!--END_SECTION:waka-->
 
