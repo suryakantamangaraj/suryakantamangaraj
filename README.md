@@ -2,7 +2,7 @@
 
 ![Profile Visits](https://gpvc.arturio.dev/suryakantamangaraj)
 
-Hi, I'm Surya Raj, a Passionate Coder 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
+Hi, I'm Surya Raj, a Technology Enthusiast🚀. I'm a creative problem solver, with a constantly growing love for technologies.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
 
 
@@ -118,13 +118,6 @@ Visit <https://suryaraj.me/SmartFarming> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Markdown   39 mins         ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Mustache   30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-YAML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Other      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -137,7 +130,7 @@ Other      4 mins          █░░░░░░░░░░░░░░░░�
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 21 October, 06:20 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 21 October, 08:48 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
