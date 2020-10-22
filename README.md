@@ -119,11 +119,11 @@ Visit <https://garvana.xyz> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   39 mins         ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Mustache   30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-YAML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Other      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Markdown   39 mins         ███████▒░░░░░░░░░░░░░░░░░   29.85 % 
+Mustache   32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+YAML       22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Python     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+HTML       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 ```
 <!--END_SECTION:waka-->
 
