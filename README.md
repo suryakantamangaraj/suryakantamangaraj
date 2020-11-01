@@ -107,11 +107,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-3. ❗️ Opened issue [#1077](https://github.com/JonathanGin52/JonathanGin52/issues/1077) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#250](https://github.com/benjaminsampica/benjaminsampica/issues/250) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#403](https://github.com/JessicaLim8/JessicaLim8/issues/403) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ##
@@ -119,13 +114,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Markdown   2 hrs 56 mins   █████████████▓░░░░░░░░░░░   54.96 % 
-Other      1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   35.18 % 
-C          20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-HTML       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -138,7 +126,7 @@ JSON       2 mins          ▒░░░░░░░░░░░░░░░░�
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 1 November, 06:03 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 1 November, 17:47 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
