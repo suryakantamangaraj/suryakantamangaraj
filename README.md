@@ -11,7 +11,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <p>
 <a href="https://www.linkedin.com/in/suryakanta-mangaraj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/_suryaraj_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/suryaraj.ig/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/suryaraj.me/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://suryaraj.me"><img alt="Website" src="https://img.shields.io/badge/Website-FF4500.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
 </p>
 
@@ -96,22 +96,16 @@ Visit <https://garvana.xyz> if you are interested!
 
 ⭐ **Other Activities:**
 
-| 📰 BLOGS | 📖 ARTICLES |
+| 📰 ARTICLES | 📖 BLOGS |
 | :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/) | [Micorservices with Docker](https://www.youtube.com/) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/) | [Guide to Linux](https://www.youtube.com/) |
-| [Automation with Ansible](https://medium.com) | [Ansible Automation](https://www.youtube.com) |
+| [How to use GUI applications in WSL/WSL2 Distros using VcXsrv](https://medium.com/@surya.raj/how-to-use-gui-applications-in-wsl-wsl2-distros-using-vcxsrv-5a10eef14073) | [Micorservices with Docker](https://www.youtube.com/) |
+| [What could possibly go wrong with GPT-3](https://medium.com/@surya.raj/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) | [Guide to Linux](https://www.youtube.com/) |
 
 ##
 
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-3. ❗️ Opened issue [#1077](https://github.com/JonathanGin52/JonathanGin52/issues/1077) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#250](https://github.com/benjaminsampica/benjaminsampica/issues/250) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#403](https://github.com/JessicaLim8/JessicaLim8/issues/403) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ##
@@ -131,7 +125,7 @@ Visit <https://garvana.xyz> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 8 November, 17:47 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 8 November, 19:54 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
