@@ -119,6 +119,10 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+```text
+Markdown   4 hrs 48 mins   ███████████████████████▒░   93.31 % 
+Mustache   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+```
 <!--END_SECTION:waka-->
 
 ##
