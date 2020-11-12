@@ -120,9 +120,9 @@ Visit <https://garvana.xyz> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   2 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.86 % 
-Other      1 hr 56 mins    ██████████▒░░░░░░░░░░░░░░   41.70 % 
-Mustache   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other      1 hr 56 mins    ████████████░░░░░░░░░░░░░   47.51 % 
+Markdown   1 hr 46 mins    ███████████░░░░░░░░░░░░░░   43.76 % 
+Mustache   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 ```
 <!--END_SECTION:waka-->
 
