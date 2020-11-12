@@ -107,11 +107,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-3. ❗️ Opened issue [#1077](https://github.com/JonathanGin52/JonathanGin52/issues/1077) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. ❗️ Opened issue [#250](https://github.com/benjaminsampica/benjaminsampica/issues/250) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#403](https://github.com/JessicaLim8/JessicaLim8/issues/403) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ##
@@ -119,11 +114,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Other      1 hr 56 mins    ████████████░░░░░░░░░░░░░   47.51 % 
-Markdown   1 hr 46 mins    ███████████░░░░░░░░░░░░░░   43.76 % 
-Mustache   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -136,7 +126,7 @@ Mustache   20 mins         ██░░░░░░░░░░░░░░░�
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 11 November, 17:45 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 12 November, 06:02 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
