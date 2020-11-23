@@ -107,8 +107,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
 <!--END_SECTION:activity-->
 
 ##
@@ -116,13 +114,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   1 hr 45 mins    ██████████▒░░░░░░░░░░░░░░   41.87 % 
-HTML         32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-TypeScript   26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-SCSS         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-YAML         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -135,7 +126,7 @@ YAML         21 mins         ██░░░░░░░░░░░░░░░
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 23 November, 06:07 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 23 November, 17:48 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
