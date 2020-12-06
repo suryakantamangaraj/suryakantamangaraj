@@ -117,11 +117,7 @@ Visit <https://garvana.xyz> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Other        3 hrs 13 mins   ██████████████████████░░░   87.52 % 
-YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-TypeScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other   3 hrs 13 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
