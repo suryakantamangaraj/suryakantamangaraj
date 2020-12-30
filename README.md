@@ -35,14 +35,15 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 🏆 **Languages and Tools:**  
 
 ![Python](https://img.shields.io/badge/python-green.svg?&style=flat&logo=python&ogoColor=white)
+![CSS](https://img.shields.io/badge/CSS-lightgrey.svg?&style=flat&logo=css3&ogoColor=white)
+![Bash](https://img.shields.io/badge/Bash-772953.svg?&style=flat&logo=GNU%20bash&ogoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-black.svg?&style=flat&logo=verilog&ogoColor=white)
 ![C](https://img.shields.io/badge/C-brightgreen.svg?&style=flat&logo=c&ogoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-yellowgreen.svg?&style=flat&logo=matrix&ogoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-yellow.svg?&style=flat&logo=typescript&ogoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-orange.svg?&style=flat&logo=javascript&ogoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-red.svg?&style=flat&logo=bootstrap&ogoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-blue.svg?&style=flat&logo=html5&ogoColor=white)
-![CSS](https://img.shields.io/badge/CSS-lightgrey.svg?&style=flat&logo=css3&ogoColor=white)
-![Bash](https://img.shields.io/badge/Bash-772953.svg?&style=flat&logo=GNU%20bash&ogoColor=white)
 ![Git](https://img.shields.io/badge/Git-9cf.svg?&style=flat&logo=git&ogoColor=white)
 
 ## 
@@ -106,6 +107,8 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+2. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
 <!--END_SECTION:activity-->
 
 ##
@@ -113,6 +116,11 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+```text
+Markdown   28 mins         █████████████████▓░░░░░░░   71.21 % 
+Python     8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
+HTML       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+```
 <!--END_SECTION:waka-->
 
 ##
@@ -125,7 +133,7 @@ Visit <https://garvana.xyz> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 8 November, 19:54 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 30 December, 17:57 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
