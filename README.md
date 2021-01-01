@@ -99,8 +99,8 @@ Visit <https://garvana.xyz> if you are interested!
 
 | 📰 ARTICLES | 📖 BLOGS |
 | :--- | :--- |
-| [How to use GUI applications in WSL/WSL2 Distros using VcXsrv](https://medium.com/@surya.raj/how-to-use-gui-applications-in-wsl-wsl2-distros-using-vcxsrv-5a10eef14073) | [Micorservices with Docker](https://www.youtube.com/) |
-| [What could possibly go wrong with GPT-3](https://medium.com/@surya.raj/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) | [Guide to Linux](https://www.youtube.com/) |
+| [How to use GUI applications in WSL/WSL2 Distros using VcXsrv](https://medium.com/@surya.raj/how-to-use-gui-applications-in-wsl-wsl2-distros-using-vcxsrv-5a10eef14073) | [Why you shouldn’t be afraid to share your idea with others](https://blog.suryaraj.me/why-you-shouldnt-be-afraid-to-share-your-idea-with-others) |
+| [What could possibly go wrong with GPT-3](https://medium.com/@surya.raj/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) |  |
 
 ##
 
@@ -117,9 +117,7 @@ Visit <https://garvana.xyz> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   28 mins         █████████████████▓░░░░░░░   71.21 % 
-Python     8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
-HTML       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+
 ```
 <!--END_SECTION:waka-->
 
@@ -133,7 +131,7 @@ HTML       2 mins          █▓░░░░░░░░░░░░░░░�
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 30 December, 17:57 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 1 January, 06:30 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
