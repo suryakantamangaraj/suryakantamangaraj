@@ -99,16 +99,15 @@ Visit <https://garvana.xyz> if you are interested!
 
 | 📰 ARTICLES | 📖 BLOGS |
 | :--- | :--- |
-| [How to use GUI applications in WSL/WSL2 Distros using VcXsrv](https://medium.com/@surya.raj/how-to-use-gui-applications-in-wsl-wsl2-distros-using-vcxsrv-5a10eef14073) | [Why you shouldn’t be afraid to share your idea with others](https://blog.suryaraj.me/why-you-shouldnt-be-afraid-to-share-your-idea-with-others) |
-| [What could possibly go wrong with GPT-3](https://medium.com/@surya.raj/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) |  |
+| [What is Makefile and how to use it?](https://surya-raj.medium.com/what-is-makefile-and-how-to-use-it-f02297f0ecdd) |  |
+| [How to use GUI applications in WSL/WSL2 Distros using VcXsrv](https://surya-raj.medium.com/how-to-use-gui-applications-in-wsl-wsl2-distros-using-vcxsrv-5a10eef14073) | [Why you shouldn’t be afraid to share your idea with others](https://blog.suryaraj.me/why-you-shouldnt-be-afraid-to-share-your-idea-with-others) |
+| [What could possibly go wrong with GPT-3](https://surya-raj.medium.com/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) |  |
 
 ##
 
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/1) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
 <!--END_SECTION:activity-->
 
 ##
@@ -116,9 +115,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -131,7 +127,7 @@ Visit <https://garvana.xyz> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 1 January, 06:30 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 1 January, 12:53 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
