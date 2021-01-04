@@ -118,8 +118,8 @@ Visit <https://garvana.xyz> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-Other      6 mins          ████████████████▓░░░░░░░░   66.10 % 
-Mustache   3 mins          ████████▒░░░░░░░░░░░░░░░░   33.90 % 
+Other      14 mins         ████████████████████▓░░░░   82.38 % 
+Mustache   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
 ```
 <!--END_SECTION:waka-->
 
