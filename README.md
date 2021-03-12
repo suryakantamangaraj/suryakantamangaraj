@@ -108,7 +108,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/3) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
@@ -116,9 +115,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ##
@@ -131,7 +127,7 @@ No Activity tracked this Week
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 11 March, 17:53 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 12 March, 06:13 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
