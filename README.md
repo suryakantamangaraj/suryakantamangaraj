@@ -117,7 +117,7 @@ Visit <https://garvana.xyz> if you are interested!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         6 mins          █████████████████████▓░░░   86.94 % 
 ```
 <!--END_SECTION:waka-->
 
