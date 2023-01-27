@@ -108,8 +108,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/W3Layouts/gatsby-starter-delog/issues/33) in [W3Layouts/gatsby-starter-delog](https://github.com/W3Layouts/gatsby-starter-delog)
-2. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/Blog/pull/1) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
 <!--END_SECTION:activity-->
 
 ##
@@ -117,11 +115,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -134,7 +127,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 27 January, 06:51 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 27 January, 18:00 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
