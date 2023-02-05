@@ -108,6 +108,10 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/Wiki/pull/1) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+2. 🎉 Merged PR [#2](https://github.com/suryakantamangaraj/Wiki/pull/2) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+3. 💪 Opened PR [#2](https://github.com/suryakantamangaraj/Wiki/pull/2) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+4. ❗️ Opened issue [#33](https://github.com/W3Layouts/gatsby-starter-delog/issues/33) in [W3Layouts/gatsby-starter-delog](https://github.com/W3Layouts/gatsby-starter-delog)
 <!--END_SECTION:activity-->
 
 ##
