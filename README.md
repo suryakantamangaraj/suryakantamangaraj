@@ -108,10 +108,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/26) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
-2. 🎉 Merged PR [#23](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/23) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
-3. 🎉 Merged PR [#24](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/24) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
-4. 🎉 Merged PR [#25](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/25) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
@@ -119,11 +115,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -136,7 +127,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 18 July, 18:01 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 19 July, 08:11 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
