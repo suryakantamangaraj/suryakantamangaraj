@@ -1,12 +1,12 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Surya!](https://suryaraj.me)
 
-![Profile Visits](https://gpvc.arturio.dev/suryakantamangaraj)
+![](https://komarev.com/ghpvc/?username=suryakantamangaraj&label=PROFILE+VIEWS&color=blueviolet)
 
 Hi, I'm Surya Raj, a Technology Enthusiast🚀. I'm a creative problem solver, with a constantly growing love for technologies.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
 
 
-📫 **Reacch out to Me:**
+📫 **Reach out to Me:**
 
 <p>
 <a href="https://www.linkedin.com/in/suryakanta-mangaraj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,7 +20,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 <img align="right" alt="jpg" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" />
 
-🙏 **Talking about Personal Stuffs:**
+🙏 **Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on Connected Agriculture Project
 - 🌱 I’m currently learning RISC-V ISA
@@ -70,7 +70,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <details>
 
 <summary>
-  More Stuffs...
+  More Stuff...
 </summary>
 
 ##
@@ -84,13 +84,13 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 </a>
 
 With emerging technology in continuous evolution over the last few years, we have seen the emergence of the term smart agriculture. 
-Although AI and conventional IoT techniques are already transforming the world of precision smart farming for many years, 
+Although AI and conventional IoT techniques have already transformed the world of precision smart farming for many years, 
 the challenge has been in moving from powerful specialist platforms with delayed processing of data especially for rural areas to processing and acting in real-time. 
 The conventional method is not adaptable because of poor internet connectivity and high cost. 
 "Smart Farming with EDGE-AI based Intelligence Cloud" solves many of the real-world challenges, out in the field. 
 Edge computing will enable the swift transfer of data to the cloud so that real-time analytics and machine-to-machine communication can streamline and automate the farming process, which will help to connect rural areas. 
-The approach is to implement a system consist of sensor nodes with data acquisition, Edge gateway with indigenous RISC-V processor, EDGE-AI based public cloud and global connecting interfaces for robust data analytics. 
-The results of using indigenous RISC-V based processor and EDGE computing will make the solution more affordable, accessible and scalable.
+The approach is to implement a system consisting of sensor nodes with data acquisition, Edge gateway with an indigenous RISC-V processor, EDGE-AI based public cloud and global connecting interfaces for robust data analytics. 
+The results of using indigenous RISC-V based processors and EDGE computing will make the solution more affordable, accessible and scalable.
 Visit <https://garvana.xyz> if you are interested!
 
 ## 
