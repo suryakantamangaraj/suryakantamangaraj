@@ -2,9 +2,7 @@
 
 ![Profile Visits](https://gpvc.arturio.dev/suryakantamangaraj)
 
-Hi, I'm Surya Raj, a Technology Enthusiast🚀. I'm a creative problem solver, with a constantly growing love for technologies.
-Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
-
+I’m Surya Raj, a Technology Enthusiast🚀 and an expert in RF Design & Communication Technologies. I specialize in ideating and developing technology-enabled products, with a particular focus on the Telecom, Avionics, and Satellite domains. My passion lies in exploring and applying Automation, IoT, AI, and ML within these Communication domains. I’m always open to collaborations and eager to leverage these technologies to create impactful solutions. I believe in continuous learning and staying updated with the latest market trends to ensure my work aligns with industry standards.
 
 📫 **Reacch out to Me:**
 
