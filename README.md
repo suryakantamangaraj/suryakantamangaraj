@@ -2,7 +2,9 @@
 
 ![Profile Visits](https://gpvc.arturio.dev/suryakantamangaraj)
 
-I’m Surya Raj, a Technology Enthusiast🚀 and an expert in RF Design & Communication Technologies. I specialize in ideating and developing technology-enabled products, with a particular focus on the Telecom, Avionics, and Satellite domains. My passion lies in exploring and applying Automation, IoT, AI, and ML within these Communication domains. I’m always open to collaborations and eager to leverage these technologies to create impactful solutions. I believe in continuous learning and staying updated with the latest market trends to ensure my work aligns with industry standards.
+Hi, I'm Surya Raj, a Technology Enthusiast🚀. I'm a creative problem solver, with a constantly growing love for technologies.
+Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
+
 
 📫 **Reacch out to Me:**
 
@@ -125,7 +127,7 @@ Visit <https://garvana.xyz> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Saturday, 9 December, 12:11 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Saturday, 9 December, 12:20 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
