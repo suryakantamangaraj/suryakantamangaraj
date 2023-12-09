@@ -6,7 +6,7 @@ Hi, I'm Surya Raj, a Technology Enthusiast🚀. I'm a creative problem solver, w
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring Automation, IoT, Artificial Intelligence, Machine Learning and NLP related opportunities in startups as well as companies with scale.
 
 
-📫 **Reach out to Me:**
+📫 **Reacch out to Me:**
 
 <p>
 <a href="https://www.linkedin.com/in/suryakanta-mangaraj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,7 +20,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 <img align="right" alt="jpg" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" />
 
-🙏 **Talking about Personal Stuff:**
+🙏 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Connected Agriculture Project
 - 🌱 I’m currently learning RISC-V ISA
@@ -45,7 +45,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-red.svg?&style=flat&logo=bootstrap&ogoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-blue.svg?&style=flat&logo=html5&ogoColor=white)
 ![Git](https://img.shields.io/badge/Git-9cf.svg?&style=flat&logo=git&ogoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 
 
@@ -71,7 +70,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 <details>
 
 <summary>
-  More Stuff...
+  More Stuffs...
 </summary>
 
 ##
@@ -85,13 +84,13 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 </a>
 
 With emerging technology in continuous evolution over the last few years, we have seen the emergence of the term smart agriculture. 
-Although AI and conventional IoT techniques have already transformed the world of precision smart farming for many years, 
+Although AI and conventional IoT techniques are already transforming the world of precision smart farming for many years, 
 the challenge has been in moving from powerful specialist platforms with delayed processing of data especially for rural areas to processing and acting in real-time. 
 The conventional method is not adaptable because of poor internet connectivity and high cost. 
 "Smart Farming with EDGE-AI based Intelligence Cloud" solves many of the real-world challenges, out in the field. 
 Edge computing will enable the swift transfer of data to the cloud so that real-time analytics and machine-to-machine communication can streamline and automate the farming process, which will help to connect rural areas. 
-The approach is to implement a system consisting of sensor nodes with data acquisition, an Edge gateway with an indigenous RISC-V processor, EDGE-AI-based public cloud and global connecting interfaces for robust data analytics. 
-The results of using indigenous RISC-V-based processors and EDGE computing will make the solution more affordable, accessible and scalable.
+The approach is to implement a system consist of sensor nodes with data acquisition, Edge gateway with indigenous RISC-V processor, EDGE-AI based public cloud and global connecting interfaces for robust data analytics. 
+The results of using indigenous RISC-V based processor and EDGE computing will make the solution more affordable, accessible and scalable.
 Visit <https://garvana.xyz> if you are interested!
 
 ## 
@@ -116,11 +115,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -133,7 +127,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Saturday, 9 December, 06:35 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Saturday, 9 December, 12:04 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
