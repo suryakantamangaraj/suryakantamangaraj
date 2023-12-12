@@ -1,6 +1,6 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Surya!](https://suryaraj.me)
 
-![](https://komarev.com/ghpvc/?username=suryakantamangaraj&label=PROFILE+VIEWS&color=blueviolet&style=plastic&base=2345)
+![](https://komarev.com/ghpvc/?username=suryakantamangaraj&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
 
 I’m Surya Raj, a Technology Enthusiast🚀 and an expert in RF Design & Communication Technologies. I specialize in ideating and developing technology-enabled products, with a particular focus on the Telecom, Avionics, and Satellite domains. My passion lies in exploring and applying Automation, IoT, AI, and ML within these Communication domains. I’m always open to collaborations and eager to leverage these technologies to create impactful solutions. I believe in continuous learning and staying updated with the latest market trends to ensure my work aligns with industry standards. 😊
 
@@ -106,9 +106,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/issues/2#issuecomment-1848278511) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 🔒 Closed issue [#2](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/issues/2) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-3. 🎉 Merged PR [#27](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/27) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
@@ -128,7 +125,7 @@ Visit <https://garvana.xyz> if you are interested!
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 12 December, 17:58 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 12 December, 20:30 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
