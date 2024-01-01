@@ -106,6 +106,9 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/issues/2#issuecomment-1848278511) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+2. 🔒 Closed issue [#2](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/issues/2) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+3. 🎉 Merged PR [#27](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/27) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
