@@ -106,11 +106,11 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Wiki/pull/6) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-2. 🎉 Merged PR [#7](https://github.com/suryakantamangaraj/Wiki/pull/7) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-3. 🎉 Merged PR [#4](https://github.com/suryakantamangaraj/Blog/pull/4) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-4. 🎉 Merged PR [#3](https://github.com/suryakantamangaraj/Blog/pull/3) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-5. 🎉 Merged PR [#5](https://github.com/suryakantamangaraj/Blog/pull/5) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+1. 🎉 Merged PR [#10](https://github.com/suryakantamangaraj/Blog/pull/10) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+2. 🎉 Merged PR [#7](https://github.com/suryakantamangaraj/Blog/pull/7) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+3. 🎉 Merged PR [#9](https://github.com/suryakantamangaraj/Blog/pull/9) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+4. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Wiki/pull/6) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+5. 🎉 Merged PR [#7](https://github.com/suryakantamangaraj/Wiki/pull/7) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
