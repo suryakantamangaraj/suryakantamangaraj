@@ -106,6 +106,11 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/suryakantamangaraj/Wiki/pull/13) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+2. 🎉 Merged PR [#14](https://github.com/suryakantamangaraj/Wiki/pull/14) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+3. 🎉 Merged PR [#15](https://github.com/suryakantamangaraj/Wiki/pull/15) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+4. 🎉 Merged PR [#8](https://github.com/suryakantamangaraj/Wiki/pull/8) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+5. 🎉 Merged PR [#9](https://github.com/suryakantamangaraj/Wiki/pull/9) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
