@@ -106,11 +106,6 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/30) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
-2. 🔒 Closed issue [#1](https://github.com/suryakantamangaraj/SmartFarming/issues/1) in [suryakantamangaraj/SmartFarming](https://github.com/suryakantamangaraj/SmartFarming)
-3. 🗣 Commented on [#1](https://github.com/suryakantamangaraj/SmartFarming/issues/1#issuecomment-2254192165) in [suryakantamangaraj/SmartFarming](https://github.com/suryakantamangaraj/SmartFarming)
-4. 🎉 Merged PR [#29](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/29) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
-5. 🎉 Merged PR [#28](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/28) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
 <!--END_SECTION:activity-->
 
 ##
@@ -118,11 +113,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -135,7 +125,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 12 August, 18:04 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Tuesday, 13 August, 06:46 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
