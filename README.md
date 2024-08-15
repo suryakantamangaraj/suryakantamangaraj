@@ -106,6 +106,7 @@ Visit <https://garvana.xyz> if you are interested!
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v3.0](https://github.com/suryakantamangaraj/Wiki/releases/tag/v3.0) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
