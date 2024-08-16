@@ -111,6 +111,9 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Release Notes for v10.0.0](https://github.com/suryakantamangaraj/suryakantamangaraj/releases/tag/v10.0.0) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
+2. 🚀 Published release [v3.0.0 - Major Infrastructure & Feature Upgrade](https://github.com/suryakantamangaraj/Wiki/releases/tag/v3.0.0) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+3. 🚀 Published release [v3.0](https://github.com/suryakantamangaraj/Wiki/releases/tag/v3.0) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
