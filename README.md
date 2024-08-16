@@ -75,21 +75,22 @@ I’m Surya Raj, a Technology Enthusiast🚀 and an expert in RF Design & Commun
 
 🏵️ **I'm working on:**
 
-#### [Smart Farming with EDGE AI and Intelligence Cloud](https://suryaraj.me/SmartFarming)
+#### [wiki.suryaraj.me](https://wiki.suryaraj.me)
 
-<a href="https://github.com/suryakantamangaraj/SmartFarming" target="_blank">
-	<img align="left" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/Images/ConnAgriculture.jfif">
-</a>
+As someone who is constantly learning and taking notes, I've always struggled with keeping track of my information and knowledge. To solve this, I created a personal wiki, also known as a "Digital Garden".
 
-With emerging technology in continuous evolution over the last few years, we have seen the emergence of the term smart agriculture. 
-Although AI and conventional IoT techniques have already transformed the world of precision smart farming for many years, 
-the challenge has been in moving from powerful specialist platforms with delayed processing of data especially for rural areas to processing and acting in real-time. 
-The conventional method is not adaptable because of poor internet connectivity and high cost. 
-"Smart Farming with EDGE-AI based Intelligence Cloud" solves many of the real-world challenges, out in the field. 
-Edge computing will enable the swift transfer of data to the cloud so that real-time analytics and machine-to-machine communication can streamline and automate the farming process, which will help to connect rural areas. 
-The approach is to implement a system consisting of sensor nodes with data acquisition, Edge gateway with an indigenous RISC-V processor, EDGE-AI based public cloud and global connecting interfaces for robust data analytics. 
-The results of using indigenous RISC-V based processors and EDGE computing will make the solution more affordable, accessible and scalable.
-Visit <https://garvana.xyz> if you are interested!
+#### **Why a Personal Wiki?**
+- **Centralized Information**: Easy access and organization of all my knowledge.
+- **Knowledge Sharing**: A personal knowledge base that can be shared with others.
+- **Digital Garden**: Information grows and evolves over time, with interconnected notes for easy navigation.
+
+#### **Join Us!**
+If you're interested in contributing, feel free to join and collaborate. By joining, you can:
+- **Share Knowledge**: Contribute your insights and expertise.
+- **Collaborate**: Work together on projects and ideas.
+- **Learn and Grow**: Benefit from a shared pool of knowledge and resources.
+
+Feel free to explore and see how I manage my knowledge and projects!
 
 ## 
 
@@ -97,16 +98,19 @@ Visit <https://garvana.xyz> if you are interested!
 
 | 📰 ARTICLES | 📖 BLOGS |
 | :--- | :--- |
-| [What is Makefile and how to use it?](https://surya-raj.medium.com/what-is-makefile-and-how-to-use-it-f02297f0ecdd) |  |
+| [What is Makefile and how to use it?](https://surya-raj.medium.com/what-is-makefile-and-how-to-use-it-f02297f0ecdd) | [The evolution of digital gardens](https://blog.suryaraj.me/blog/The-evolution-of-digital-gardens) |
 | [How to use GUI applications in WSL/WSL2 Distros using VcXsrv](https://surya-raj.medium.com/how-to-use-gui-applications-in-wsl-wsl2-distros-using-vcxsrv-5a10eef14073) | [Why you shouldn’t be afraid to share your idea with others](https://blog.suryaraj.me/why-you-shouldnt-be-afraid-to-share-your-idea-with-others) |
-| [What could possibly go wrong with GPT-3](https://surya-raj.medium.com/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) |  |
+| [What could possibly go wrong with GPT-3](https://surya-raj.medium.com/what-could-possibly-go-wrong-with-gpt-3-9fd575c97647) | [The power of humility: embracing the unknown](https://blog.suryaraj.me/blog/The-power-of-humility-embracing-the-unknown) |
+
+These are some glimpses of the blogs and articles. You can find more at:
+- [blog.suryaraj.me](https://blog.suryaraj.me)
+- [wiki.suryaraj.me](https://wiki.suryaraj.me)
 
 ##
 
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0](https://github.com/suryakantamangaraj/Wiki/releases/tag/v3.0) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
@@ -114,11 +118,6 @@ Visit <https://garvana.xyz> if you are interested!
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -131,7 +130,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 16 August, 18:02 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Friday, 16 August, 22:52 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
