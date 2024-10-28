@@ -111,11 +111,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/suryakantamangaraj/Wiki/pull/16) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-2. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/NetworkAnalyzer/pull/1) in [suryakantamangaraj/NetworkAnalyzer](https://github.com/suryakantamangaraj/NetworkAnalyzer)
-3. 🚀 Published release [Release Notes for v10.0.0](https://github.com/suryakantamangaraj/suryakantamangaraj/releases/tag/v10.0.0) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
-4. 🚀 Published release [v3.0.0 - Major Infrastructure & Feature Upgrade](https://github.com/suryakantamangaraj/Wiki/releases/tag/v3.0.0) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-5. 🚀 Published release [v3.0](https://github.com/suryakantamangaraj/Wiki/releases/tag/v3.0) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
@@ -123,11 +118,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -140,7 +130,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 28 October, 06:56 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 28 October, 18:07 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
