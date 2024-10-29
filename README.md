@@ -118,6 +118,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ##
