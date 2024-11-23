@@ -111,11 +111,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/suryakantamangaraj/Wiki/pull/18) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-2. 🎉 Merged PR [#17](https://github.com/suryakantamangaraj/Wiki/pull/17) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-3. 🎉 Merged PR [#19](https://github.com/suryakantamangaraj/Wiki/pull/19) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-4. 🎉 Merged PR [#20](https://github.com/suryakantamangaraj/Wiki/pull/20) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-5. 🎉 Merged PR [#16](https://github.com/suryakantamangaraj/Wiki/pull/16) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+1. 🚀 Published release [v0.1.5-alpha](https://github.com/suryakantamangaraj/Ext_TodoList/releases/tag/v0.1.5-alpha) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
+2. 🎉 Merged PR [#18](https://github.com/suryakantamangaraj/Wiki/pull/18) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+3. 🎉 Merged PR [#17](https://github.com/suryakantamangaraj/Wiki/pull/17) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+4. 🎉 Merged PR [#19](https://github.com/suryakantamangaraj/Wiki/pull/19) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+5. 🎉 Merged PR [#20](https://github.com/suryakantamangaraj/Wiki/pull/20) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 ##
