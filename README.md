@@ -111,11 +111,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Ext_TodoList/pull/6) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-2. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/Ext_TodoList/pull/6) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-3. 🎉 Merged PR [#5](https://github.com/suryakantamangaraj/Ext_TodoList/pull/5) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-4. 💪 Opened PR [#5](https://github.com/suryakantamangaraj/Ext_TodoList/pull/5) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-5. 🎉 Merged PR [#4](https://github.com/suryakantamangaraj/Ext_TodoList/pull/4) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
 <!--END_SECTION:activity-->
 
 ##
@@ -123,11 +118,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -140,7 +130,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 8 December, 18:06 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 9 December, 07:11 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
