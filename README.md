@@ -111,11 +111,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Ext_TodoList/pull/6) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-2. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/Ext_TodoList/pull/6) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-3. 🎉 Merged PR [#5](https://github.com/suryakantamangaraj/Ext_TodoList/pull/5) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-4. 💪 Opened PR [#5](https://github.com/suryakantamangaraj/Ext_TodoList/pull/5) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
-5. 🎉 Merged PR [#4](https://github.com/suryakantamangaraj/Ext_TodoList/pull/4) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
+1. 🚀 Published release [v0.1.0](https://github.com/suryakantamangaraj/Utilities/releases/tag/v0.1.0) in [suryakantamangaraj/Utilities](https://github.com/suryakantamangaraj/Utilities)
+2. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Ext_TodoList/pull/6) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
+3. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/Ext_TodoList/pull/6) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
+4. 🎉 Merged PR [#5](https://github.com/suryakantamangaraj/Ext_TodoList/pull/5) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
+5. 💪 Opened PR [#5](https://github.com/suryakantamangaraj/Ext_TodoList/pull/5) in [suryakantamangaraj/Ext_TodoList](https://github.com/suryakantamangaraj/Ext_TodoList)
 <!--END_SECTION:activity-->
 
 ##
