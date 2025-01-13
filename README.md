@@ -111,9 +111,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/12) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#12](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/12) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#11](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/11) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
@@ -121,11 +118,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -138,7 +130,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 13 January, 07:05 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, 13 January, 18:08 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
