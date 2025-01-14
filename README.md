@@ -111,11 +111,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1084](https://github.com/stackblitz-labs/bolt.diy/pull/1084) in [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
-2. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/bolt.diy/pull/1) in [suryakantamangaraj/bolt.diy](https://github.com/suryakantamangaraj/bolt.diy)
-3. 💪 Opened PR [#1](https://github.com/suryakantamangaraj/bolt.diy/pull/1) in [suryakantamangaraj/bolt.diy](https://github.com/suryakantamangaraj/bolt.diy)
-4. 🎉 Merged PR [#12](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/12) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-5. 💪 Opened PR [#12](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/12) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+1. 🎉 Merged PR [#15](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/15) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+2. 💪 Opened PR [#15](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/15) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+3. 🎉 Merged PR [#14](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/14) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+4. 💪 Opened PR [#14](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/14) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+5. 🎉 Merged PR [#13](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/13) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
