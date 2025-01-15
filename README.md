@@ -111,11 +111,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/17) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#17](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/17) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#16](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/16) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-4. 💪 Opened PR [#16](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/16) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-5. 🎉 Merged PR [#15](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/15) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+1. 🎉 Merged PR [#20](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/20) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+2. 💪 Opened PR [#20](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/20) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+3. 🎉 Merged PR [#19](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/19) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+4. 💪 Opened PR [#19](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/19) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+5. 🎉 Merged PR [#18](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/18) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
