@@ -111,11 +111,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/21) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#21](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/21) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#20](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/20) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-4. 💪 Opened PR [#20](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/20) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-5. 🎉 Merged PR [#19](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/19) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
@@ -123,11 +118,6 @@ These are some glimpses of the blogs and articles. You can find more at:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ##
@@ -140,7 +130,7 @@ No activity tracked
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Wednesday, 15 January, 18:05 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Thursday, 16 January, 06:51 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
