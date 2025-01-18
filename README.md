@@ -61,8 +61,6 @@ I’m Surya Raj, a Technology Enthusiast🚀 and an expert in RF Design & Commun
   <a href="https://twitter.com/_suryaraj_" target="_blank">
   <img src="https://github.com/suryakantamangaraj/suryakantamangaraj/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
   </a>
-    
- ##
 
 ##
 
@@ -132,7 +130,7 @@ These are some glimpses of the blogs and articles. You can find more at:
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 19 January, 00:04 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 19 January, 00:16 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
