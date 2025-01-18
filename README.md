@@ -111,6 +111,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/suryakantamangaraj/Wiki/pull/23) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+2. 🎉 Merged PR [#26](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/26) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+3. 💪 Opened PR [#26](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/26) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+4. 🎉 Merged PR [#25](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/25) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+5. 💪 Opened PR [#25](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/25) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 ##
