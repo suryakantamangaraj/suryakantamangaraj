@@ -64,6 +64,12 @@ I’m Surya Raj, a Technology Enthusiast🚀 and an expert in RF Design & Commun
     
  ##
 
+##
+
+📈 **My GitHub Stats:**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&count_private=true&show_icons=true&theme=graywhite&bg_color=DEG,FF8F1C,ffffff,509E2F" alt="suryakantamangaraj" />
+
 
 <details>
 
@@ -121,17 +127,12 @@ These are some glimpses of the blogs and articles. You can find more at:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 -->
-##
-
-📈 **My GitHub Stats:**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryakantamangaraj&count_private=true&show_icons=true&theme=graywhite&bg_color=DEG,FF8F1C,ffffff,509E2F" alt="suryakantamangaraj" />
 
 
 </details>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 19 January, 00:00 GMT+5:30</p>
+<p align="center">This <i>README</i> file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, 19 January, 00:04 GMT+5:30</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/suryakantamangaraj/suryakantamangaraj?style=plastic&labelColor=343b41"/>
