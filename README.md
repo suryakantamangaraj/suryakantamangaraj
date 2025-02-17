@@ -115,6 +115,10 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.19](https://github.com/suryakantamangaraj/Archive/releases/tag/v1.0.19) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+2. 🚀 Published release [v2.0.0](https://github.com/suryakantamangaraj/Blog/releases/tag/v2.0.0) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+3. ❌ Closed PR [#6](https://github.com/suryakantamangaraj/Blog/pull/6) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+4. ❌ Closed PR [#8](https://github.com/suryakantamangaraj/Blog/pull/8) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
