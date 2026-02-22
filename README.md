@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/27) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#27](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/27) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#17](https://github.com/suryakantamangaraj/Blog/pull/17) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-4. 🎉 Merged PR [#27](https://github.com/suryakantamangaraj/Wiki/pull/27) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-5. 🎉 Merged PR [#26](https://github.com/suryakantamangaraj/Wiki/pull/26) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+1. 🎉 Merged PR [#31](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/31) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+2. 💪 Opened PR [#31](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/31) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+3. 🎉 Merged PR [#30](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/30) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+4. 💪 Opened PR [#30](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/30) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+5. 🎉 Merged PR [#29](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/29) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
