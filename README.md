@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/31) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#31](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/31) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🎉 Merged PR [#30](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/30) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-4. 💪 Opened PR [#30](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/30) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-5. 🎉 Merged PR [#29](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/29) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+1. ❌ Closed PR [#34](https://github.com/suryakantamangaraj/Wiki/pull/34) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+2. ❌ Closed PR [#33](https://github.com/suryakantamangaraj/Wiki/pull/33) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+3. ❌ Closed PR [#32](https://github.com/suryakantamangaraj/Wiki/pull/32) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+4. ❌ Closed PR [#31](https://github.com/suryakantamangaraj/Wiki/pull/31) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+5. ❌ Closed PR [#35](https://github.com/suryakantamangaraj/Wiki/pull/35) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
