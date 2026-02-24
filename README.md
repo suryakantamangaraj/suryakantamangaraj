@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/suryakantamangaraj/Wiki/pull/34) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-2. ❌ Closed PR [#33](https://github.com/suryakantamangaraj/Wiki/pull/33) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-3. ❌ Closed PR [#32](https://github.com/suryakantamangaraj/Wiki/pull/32) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-4. ❌ Closed PR [#31](https://github.com/suryakantamangaraj/Wiki/pull/31) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
-5. ❌ Closed PR [#35](https://github.com/suryakantamangaraj/Wiki/pull/35) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+1. ❌ Closed PR [#30](https://github.com/suryakantamangaraj/Blog/pull/30) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+2. ❌ Closed PR [#28](https://github.com/suryakantamangaraj/Blog/pull/28) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+3. ❌ Closed PR [#29](https://github.com/suryakantamangaraj/Blog/pull/29) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+4. ❌ Closed PR [#27](https://github.com/suryakantamangaraj/Blog/pull/27) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+5. ❌ Closed PR [#26](https://github.com/suryakantamangaraj/Blog/pull/26) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
