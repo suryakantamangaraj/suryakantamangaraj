@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/suryakantamangaraj/Blog/pull/30) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-2. ❌ Closed PR [#28](https://github.com/suryakantamangaraj/Blog/pull/28) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-3. ❌ Closed PR [#29](https://github.com/suryakantamangaraj/Blog/pull/29) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-4. ❌ Closed PR [#27](https://github.com/suryakantamangaraj/Blog/pull/27) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
-5. ❌ Closed PR [#26](https://github.com/suryakantamangaraj/Blog/pull/26) in [suryakantamangaraj/Blog](https://github.com/suryakantamangaraj/Blog)
+1. 🎉 Merged PR [#3](https://github.com/suryakantamangaraj/apps/pull/3) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
+2. 💪 Opened PR [#3](https://github.com/suryakantamangaraj/apps/pull/3) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
+3. 🎉 Merged PR [#2](https://github.com/suryakantamangaraj/apps/pull/2) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
+4. 💪 Opened PR [#2](https://github.com/suryakantamangaraj/apps/pull/2) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
+5. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/apps/pull/1) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
