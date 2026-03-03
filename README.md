@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/6) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-2. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/6) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-3. 🗣 Commented on [#5](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/5#issuecomment-3991493962) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-4. ❌ Closed PR [#5](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/5) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
-5. 💪 Opened PR [#5](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/5) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+1. 🎉 Merged PR [#12](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/12) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
+2. 💪 Opened PR [#12](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/12) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
+3. 🎉 Merged PR [#11](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/11) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
+4. 💪 Opened PR [#11](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/11) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
+5. 🎉 Merged PR [#10](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/10) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
