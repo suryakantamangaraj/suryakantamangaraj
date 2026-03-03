@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/suryakantamangaraj/apps/pull/4) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
-2. 💪 Opened PR [#4](https://github.com/suryakantamangaraj/apps/pull/4) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
-3. 🎉 Merged PR [#3](https://github.com/suryakantamangaraj/apps/pull/3) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
-4. 💪 Opened PR [#3](https://github.com/suryakantamangaraj/apps/pull/3) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
-5. 🎉 Merged PR [#2](https://github.com/suryakantamangaraj/apps/pull/2) in [suryakantamangaraj/apps](https://github.com/suryakantamangaraj/apps)
+1. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/6) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+2. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/6) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+3. 🗣 Commented on [#5](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/5#issuecomment-3991493962) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+4. ❌ Closed PR [#5](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/5) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
+5. 💪 Opened PR [#5](https://github.com/suryakantamangaraj/AwesomeRISC-VResources/pull/5) in [suryakantamangaraj/AwesomeRISC-VResources](https://github.com/suryakantamangaraj/AwesomeRISC-VResources)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
