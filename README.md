@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#498](https://github.com/bayandin/awesome-awesomeness/pull/498) in [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-2. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-3995052054) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 💪 Opened PR [#3980](https://github.com/sindresorhus/awesome/pull/3980) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 🎉 Merged PR [#12](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/12) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
-5. 💪 Opened PR [#12](https://github.com/suryakantamangaraj/awesome-riscv-resources/pull/12) in [suryakantamangaraj/awesome-riscv-resources](https://github.com/suryakantamangaraj/awesome-riscv-resources)
+1. ❗ Opened issue [#1](https://github.com/jaikrishna-j/jaikrishna-j/issues/1) in [jaikrishna-j/jaikrishna-j](https://github.com/jaikrishna-j/jaikrishna-j)
+2. 🗣 Commented on [#1](https://github.com/Anondoroydev/Weather_App/issues/1#issuecomment-3998247731) in [Anondoroydev/Weather_App](https://github.com/Anondoroydev/Weather_App)
+3. ❗ Opened issue [#1](https://github.com/neeteshupreti/AcademicTrackingandAlertSystem/issues/1) in [neeteshupreti/AcademicTrackingandAlertSystem](https://github.com/neeteshupreti/AcademicTrackingandAlertSystem)
+4. ❗ Opened issue [#1](https://github.com/Anondoroydev/Weather_App/issues/1) in [Anondoroydev/Weather_App](https://github.com/Anondoroydev/Weather_App)
+5. 🎉 Merged PR [#38](https://github.com/suryakantamangaraj/Wiki/pull/38) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
