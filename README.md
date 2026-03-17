@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/32) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. 💪 Opened PR [#32](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/32) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4055844336) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4055818234) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4047086698) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. ❗ Opened issue [#36](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/36) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+2. ❗ Opened issue [#35](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/35) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+3. ❗ Opened issue [#34](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/34) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+4. 🚀 Published release [Latest Release](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/releases/tag/v8.0.1) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+5. 🎉 Merged PR [#33](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/33) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
