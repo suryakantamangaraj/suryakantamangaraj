@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4055844336) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4055818234) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4047086698) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. ❗ Opened issue [#1](https://github.com/jaikrishna-j/jaikrishna-j/issues/1) in [jaikrishna-j/jaikrishna-j](https://github.com/jaikrishna-j/jaikrishna-j)
-5. 🗣 Commented on [#1](https://github.com/Anondoroydev/Weather_App/issues/1#issuecomment-3998247731) in [Anondoroydev/Weather_App](https://github.com/Anondoroydev/Weather_App)
+1. 🎉 Merged PR [#32](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/32) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+2. 💪 Opened PR [#32](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/32) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+3. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4055844336) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4055818234) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4047086698) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
