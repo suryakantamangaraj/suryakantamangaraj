@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#36](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/36) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-2. ❗ Opened issue [#35](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/35) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-3. ❗ Opened issue [#34](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/34) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-4. 🚀 Published release [Latest Release](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/releases/tag/v8.0.1) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-5. 🎉 Merged PR [#33](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/pull/33) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+1. ❗ Opened issue [#2](https://github.com/suryakantamangaraj/Archive/issues/2) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+2. ❗ Opened issue [#1](https://github.com/suryakantamangaraj/Archive/issues/1) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+3. ❗ Opened issue [#36](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/36) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+4. ❗ Opened issue [#35](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/35) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+5. ❗ Opened issue [#34](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/34) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
