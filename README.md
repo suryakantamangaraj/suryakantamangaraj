@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/suryakantamangaraj/Archive/issues/2) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
-2. ❗ Opened issue [#1](https://github.com/suryakantamangaraj/Archive/issues/1) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
-3. ❗ Opened issue [#36](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/36) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-4. ❗ Opened issue [#35](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/35) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
-5. ❗ Opened issue [#34](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io/issues/34) in [suryakantamangaraj/suryakantamangaraj.github.io](https://github.com/suryakantamangaraj/suryakantamangaraj.github.io)
+1. 🔒 Closed issue [#2](https://github.com/suryakantamangaraj/Archive/issues/2) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+2. 🗣 Commented on [#2](https://github.com/suryakantamangaraj/Archive/issues/2#issuecomment-4083066847) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+3. 🚀 Published release [Latest Release](https://github.com/suryakantamangaraj/Archive/releases/tag/v2.0.7) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+4. 🗣 Commented on [#1](https://github.com/suryakantamangaraj/Archive/issues/1#issuecomment-4082966581) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
+5. 🔒 Closed issue [#1](https://github.com/suryakantamangaraj/Archive/issues/1) in [suryakantamangaraj/Archive](https://github.com/suryakantamangaraj/Archive)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
