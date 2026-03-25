@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/suryakantamangaraj/Math/pull/3) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-2. 💪 Opened PR [#3](https://github.com/suryakantamangaraj/Math/pull/3) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-3. 🎉 Merged PR [#2](https://github.com/suryakantamangaraj/Math/pull/2) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-4. 💪 Opened PR [#2](https://github.com/suryakantamangaraj/Math/pull/2) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-5. 🎉 Merged PR [#1](https://github.com/suryakantamangaraj/Math/pull/1) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+1. 🎉 Merged PR [#7](https://github.com/suryakantamangaraj/Math/pull/7) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+2. 💪 Opened PR [#7](https://github.com/suryakantamangaraj/Math/pull/7) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+3. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Math/pull/6) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+4. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/Math/pull/6) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+5. 🎉 Merged PR [#5](https://github.com/suryakantamangaraj/Math/pull/5) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
