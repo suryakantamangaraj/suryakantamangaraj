@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/suryakantamangaraj/Math/pull/7) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-2. 💪 Opened PR [#7](https://github.com/suryakantamangaraj/Math/pull/7) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-3. 🎉 Merged PR [#6](https://github.com/suryakantamangaraj/Math/pull/6) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-4. 💪 Opened PR [#6](https://github.com/suryakantamangaraj/Math/pull/6) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-5. 🎉 Merged PR [#5](https://github.com/suryakantamangaraj/Math/pull/5) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+1. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4164549776) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 🎉 Merged PR [#14](https://github.com/suryakantamangaraj/awesome-riscv/pull/14) in [suryakantamangaraj/awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv)
+3. 💪 Opened PR [#14](https://github.com/suryakantamangaraj/awesome-riscv/pull/14) in [suryakantamangaraj/awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv)
+4. 🎉 Merged PR [#7](https://github.com/suryakantamangaraj/Math/pull/7) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
+5. 💪 Opened PR [#7](https://github.com/suryakantamangaraj/Math/pull/7) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
