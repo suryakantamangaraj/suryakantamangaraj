@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4174602006) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4174593159) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 🎉 Merged PR [#15](https://github.com/suryakantamangaraj/awesome-riscv/pull/15) in [suryakantamangaraj/awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv)
-4. 💪 Opened PR [#15](https://github.com/suryakantamangaraj/awesome-riscv/pull/15) in [suryakantamangaraj/awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv)
-5. ❌ Closed PR [#34](https://github.com/suryakantamangaraj/suryakantamangaraj/pull/34) in [suryakantamangaraj/suryakantamangaraj](https://github.com/suryakantamangaraj/suryakantamangaraj)
+1. ❌ Closed PR [#3](https://github.com/suryakantamangaraj/touchstone-dotnet/pull/3) in [suryakantamangaraj/touchstone-dotnet](https://github.com/suryakantamangaraj/touchstone-dotnet)
+2. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4174602006) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4174593159) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. 🎉 Merged PR [#15](https://github.com/suryakantamangaraj/awesome-riscv/pull/15) in [suryakantamangaraj/awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv)
+5. 💪 Opened PR [#15](https://github.com/suryakantamangaraj/awesome-riscv/pull/15) in [suryakantamangaraj/awesome-riscv](https://github.com/suryakantamangaraj/awesome-riscv)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
