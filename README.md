@@ -115,11 +115,11 @@ These are some glimpses of the blogs and articles. You can find more at:
 🔔 **My Recent GitHub Activities:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/suryakantamangaraj/Math/pull/8) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-2. 💪 Opened PR [#8](https://github.com/suryakantamangaraj/Math/pull/8) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
-3. ❌ Closed PR [#3](https://github.com/suryakantamangaraj/touchstone-dotnet/pull/3) in [suryakantamangaraj/touchstone-dotnet](https://github.com/suryakantamangaraj/touchstone-dotnet)
-4. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4174602006) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 🗣 Commented on [#3980](https://github.com/sindresorhus/awesome/pull/3980#issuecomment-4174593159) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. 🎉 Merged PR [#47](https://github.com/suryakantamangaraj/Wiki/pull/47) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+2. 💪 Opened PR [#47](https://github.com/suryakantamangaraj/Wiki/pull/47) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+3. 🎉 Merged PR [#46](https://github.com/suryakantamangaraj/Wiki/pull/46) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+4. 💪 Opened PR [#46](https://github.com/suryakantamangaraj/Wiki/pull/46) in [suryakantamangaraj/Wiki](https://github.com/suryakantamangaraj/Wiki)
+5. 🎉 Merged PR [#8](https://github.com/suryakantamangaraj/Math/pull/8) in [suryakantamangaraj/Math](https://github.com/suryakantamangaraj/Math)
 <!--END_SECTION:activity-->
 
 <!-- Commenting out WakaTime section
